@@ -1,0 +1,4 @@
+
+# Vosk Models (large files)
+textToSpeech(Vosk)/Models/
+*.zip
